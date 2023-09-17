@@ -7,6 +7,7 @@ Install-
 
 pip install -r requirements.txt
 
+
 or install manually.-
 
 pip install Mastodon.py
