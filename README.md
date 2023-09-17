@@ -5,7 +5,7 @@ Python 3.7 or newer is required!
 Install-
 pip install -r requirements.txt
 
-or install manually.-
+or install manually.- 
 pip install Mastodon.py
 pip install anyascii
 
