@@ -1,5 +1,10 @@
 # MOStodon
+![image](https://github.com/Havoc6502/MOStodon/assets/140346993/fb95578a-86e7-42ae-911c-7d1dcc4ff2bc)
+
 A Commodore 64 Mastodon Client. A C64 compatible Modem is required.
+![image](https://github.com/Havoc6502/MOStodon/assets/140346993/8d7667ef-3318-4465-b748-16ab38294f89)
+
+![image](https://github.com/Havoc6502/MOStodon/assets/140346993/d2800796-d172-4e12-8fc7-b78a2046c10e)
 
 Python 3.7 or newer is required!
 
