@@ -9,6 +9,10 @@ A Commodore 64 Mastodon Client. A C64 compatible Modem is required.
 
 ![image](https://github.com/Havoc6502/MOStodon/assets/140346993/d2800796-d172-4e12-8fc7-b78a2046c10e)
 
+Setup a local Python proxy server.
+
+You can use a Raspberry Pi or any computer with the latest Python 3 installed.
+
 Python 3.7 or newer is required!
 
 Install-
