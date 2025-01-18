@@ -3,7 +3,7 @@ https://oldbytes.space/@Havoc
 
 ![image](https://github.com/Havoc6502/MOStodon/assets/140346993/fb95578a-86e7-42ae-911c-7d1dcc4ff2bc)
 
-A Commodore 64 Mastodon Client. A C64 compatible Modem is required.
+A Commodore 64 Mastodon Client. A modern C64 compatible Modem is required.
 
 ![image](https://github.com/Havoc6502/MOStodon/assets/140346993/8d7667ef-3318-4465-b748-16ab38294f89)
 
@@ -30,8 +30,7 @@ pip install anyascii
 Create your Mastodon app on your Mastodon Instance.-
 
 Log into your Mastodon instance and navigate to your settings. Under the Development tab click New Application.
-Add the application name MOStodon. Default application settings should already be Read,Write. Crypto should not be needed
-because all data is sent over https requests.
+Add the application name MOStodon. Default application settings should already be Read,Write,Crypto.
 
 Click on the newly created app. Copy "Your access token" secret.
 Paste the token between the quotes in MOStodon.py after access_token = ""
@@ -44,7 +43,7 @@ Simply type python MOStodon.py
 
 Connecting to the Server.-
 
-You will need a compatible Commodore 64 Modem. Any of the C64 WiFi modems, a 1541 Ultimate, or equivilent Modem will work.
+You will need a modern compatible Commodore 64 Modem. Any of the C64 WiFi modems, a 1541 Ultimate, or equivilent Modem will work.
 You can even use Vice with TCPser.
 The higher the Baud rate the better!
 
